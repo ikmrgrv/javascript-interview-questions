@@ -349,8 +349,8 @@
 
 - A: `One Two`
 - B: `One Three`
-- C: `One Two Three`
-- D: `Three One Two`
+- C: `Nothing will be logged`
+- D: `Error: ref to button is not defined`
 
 <br/>
 
